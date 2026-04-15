@@ -29,7 +29,7 @@ The user plays against the computer, which makes a random choice.</p>
     <pre><code>cd Rock-Paper-Scissors-Game-Python</code></pre>
   </li>
   <li>Run the script:
-    <pre><code>python game.py</code></pre>
+    <pre><code>main.py</code></pre>
   </li>
 </ol>
 
