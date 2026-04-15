@@ -1,6 +1,6 @@
 import random
 choices =["rock", "paper", "scissors"]
-print("1- rock \n2- paper \n3- scissors")
+print("Type rock, paper or scissors")
 user_choice=str(input("Your choice..."))
 computer_choice=random.choice(choices)
 #tie case 
