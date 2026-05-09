@@ -19,7 +19,6 @@ The user plays against the computer, which makes a random choice.</p>
   <li>The result (win, lose, or tie) is displayed</li>
 </ol>
 
-
 <h2>How to Run</h2>
 <ol>
   <li>Clone this repository:
